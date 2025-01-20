@@ -1,3 +1,5 @@
+# Meet Scout Master by Storytellers of the Apocalypse
+
 Meet Scout Master by [Storytellers of the Apocalypse](<https://discord.gg/zCBzPwe>), the smartest squad leader your Discord server has ever seen! Whether you're planning a spontaneous raid or scheduling a marathon gaming spree, Scout Master has you covered. With a simple /recruit command, you can:
 
 - **🎮 Pick Your Game:** Choose the game you want to play.
@@ -5,7 +7,7 @@ Meet Scout Master by [Storytellers of the Apocalypse](<https://discord.gg/zCBzPw
 - **🗓️ Schedule Sessions:** Set the perfect time for your gaming marathon.
 - **🔗 Tag Friends:** Easily invite your buddies to join the fun.
 
-*P.S. Sorry for the admin permissions... only way to get the bot to work completely.*
+*We value transparency and want you to feel safe and confident using Scout Master with your server. You can view our [GitHub Repository](<https://github.com/CharlieAKAN/scout-master-public/tree/main>) to see exactly what Scout Master does and why admin permissions are necessary. Currently, Discord doesn’t support sending  **text messages directly to text channels within a Voice Channel **. Scout Master uses admin permissions to alert users about their designated voice channels created for their sessions. We apologize for any inconvenience and appreciate your understanding.*
 
 **Why You'll Love Scout Master:**
 
